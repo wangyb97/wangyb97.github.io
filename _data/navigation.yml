@@ -50,3 +50,5 @@ header:
       tr      : &TR       Hakkında
       # @end locale config
     url: /about.html
+  - title: diary
+    url:        /docs/zh/diary
