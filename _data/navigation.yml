@@ -24,8 +24,8 @@ header:
       tr      : &TR       Arşivdekiler
       # @end locale config
     url: /archive.html
-  - title: Docs
-    url: /docs/zh/quick-start
+  - title: 文档
+    url: /docs/_docs/zh/quick-start
   - titles:
       # @start locale config
       en      : &EN       About
