@@ -1,5 +1,5 @@
 ---
-# layout: article
+layout: article
 titles:
   # @start locale config
   en      : &EN       About me
@@ -28,7 +28,7 @@ titles:
 
 ## Hello, I'm Liye——骊叶
 
-### I'm a programmer at jlu. Welcome to my own blog！
+##### I'm a programmer at jlu. Welcome to my own blog！
 
 ## About Me
 
