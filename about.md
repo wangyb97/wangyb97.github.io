@@ -1,5 +1,5 @@
 ---
-
+layout: article
 titles:
   # @start locale config
   en      : &EN       About me
@@ -23,7 +23,7 @@ titles:
   fr-FR   : *FR
   fr-LU   : *FR
   # @end locale config
-key: page-about
+# key: page-about
 ---
 
 ## Hello, I'm Liye——骊叶
