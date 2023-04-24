@@ -24,7 +24,8 @@ header:
       tr      : &TR       Arşivdekiler
       # @end locale config
     url: /archive.html
-
+  - title: diary
+    url: /docs/zh/diary
   - titles:
       # @start locale config
       en      : &EN       About
@@ -50,5 +51,3 @@ header:
       tr      : &TR       Hakkında
       # @end locale config
     url: /about.html
-  - title: diary
-    url:        /docs/zh/diary
