@@ -25,7 +25,7 @@ header:
       # @end locale config
     url: /archive.html
   - title: diary
-    url: /docs/zh/diary
+    url: /diary/zh/diary
   - titles:
       # @start locale config
       en      : &EN       About

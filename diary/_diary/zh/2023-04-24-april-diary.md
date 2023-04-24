@@ -1,6 +1,6 @@
 ---
 title: 4月日记
-permalink: /docs/zh/diary
+permalink: /diary/zh/diary
 excerpt_type: html
 ---
 
